@@ -37,7 +37,7 @@ div {
 
 .lab1 {
 	float:  right;
-	width:  100%;
+	width:  100px;
 	padding: 10px;
 	margin: 0px;
 	border: 1px solid black;
@@ -49,7 +49,7 @@ div {
 
 .lab2 {
 	float:  right;
-	width:  100%;
+	width:  100px;
 	padding: 10px;
 	margin: 0px;
 	border: 1px solid black;
@@ -61,7 +61,7 @@ div {
 
 .lab3 {
 	float:  right;
-	width:  100%;
+	width:  100px;
 	padding: 10px;
 	margin: 0px;
 	border: 1px solid black;
